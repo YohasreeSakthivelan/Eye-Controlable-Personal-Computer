@@ -1,2 +1,2 @@
 # Eye-Controllable-Personal-Computer
-The aim of the project is to Assist Physically challenged for control the system just by moving and blinking their eye using Python,ML libraries. For front-end I used PYQT5 DESIGNER
+This project aims in controlling the system through the movement of the eye , Image recognition is used and CNN is used for deep learning , For the user interfacer module called pyQT5 is used and for tracking using mediapipe
